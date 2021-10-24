@@ -1,2 +1,2 @@
-# goit-markup-hw-04
-Homework #4
+# goit-markup-hw-02
+ДЗ#2 ОСНОВЫ CSS. СЕЛЕКТОРЫ И ЦВЕТ. ТЕКСТ И ШРИФТЫ
